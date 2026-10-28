@@ -1,0 +1,134 @@
+[
+ {
+  "id": 1,
+  "name": "Chicken Biryani",
+  "category": "Rice",
+  "price": 350,
+  "emoji": "🍛",
+  "color": "#FFD7A8",
+  "prep": "12 min",
+  "desc": "Fragrant basmati layered with spiced chicken, raita on the side.",
+  "image": "biryani.jpg"
+ },
+ {
+  "id": 2,
+  "name": "Chana Pulao",
+  "category": "Rice",
+  "price": 220,
+  "emoji": "🍚",
+  "color": "#FFE9B0",
+  "prep": "8 min",
+  "desc": "Light chickpea pulao with fried onions and a salad.",
+  "image": "channa_pulao.jpg"
+ },
+ {
+  "id": 3,
+  "name": "Zinger Burger",
+  "category": "Fast Food",
+  "price": 420,
+  "emoji": "🍔",
+  "color": "#FFC9B8",
+  "prep": "10 min",
+  "desc": "Crispy fillet, jalapeño mayo and lettuce in a toasted bun.",
+  "image": "Zinger_Burger.jpg"
+ },
+ {
+  "id": 4,
+  "name": "Club Sandwich",
+  "category": "Fast Food",
+  "price": 380,
+  "emoji": "🥪",
+  "color": "#E4F3C8",
+  "prep": "9 min",
+  "desc": "Triple-decker with chicken, egg, cheese and fries.",
+  "image": "club_sandwich.jpg"
+ },
+ {
+  "id": 5,
+  "name": "Loaded Fries",
+  "category": "Fast Food",
+  "price": 250,
+  "emoji": "🍟",
+  "color": "#FFEFA6",
+  "prep": "6 min",
+  "desc": "Golden fries with cheese sauce and chilli flakes.",
+  "image": "loaded_fries.jpg"
+ },
+ {
+  "id": 6,
+  "name": "Chicken Karahi",
+  "category": "Desi",
+  "price": 600,
+  "emoji": "🍲",
+  "color": "#FFBFA3",
+  "prep": "15 min",
+  "desc": "Tomato-ginger karahi served with two fresh naans.",
+  "image": "Chicken_Karahi.jpg"
+ },
+ {
+  "id": 7,
+  "name": "Pizza Slice Combo",
+  "category": "Fast Food",
+  "price": 450,
+  "emoji": "🍕",
+  "color": "#FFD0B0",
+  "prep": "11 min",
+  "desc": "Two cheesy chicken tikka slices with a chilled drink.",
+  "image": "pizza.jpg"
+ },
+ {
+  "id": 8,
+  "name": "Samosa Chaat",
+  "category": "Snacks",
+  "price": 150,
+  "emoji": "🥟",
+  "color": "#E8D9FF",
+  "prep": "4 min",
+  "desc": "Crushed samosas, chutneys, chickpeas and yoghurt.",
+  "image": "Samosa_Chaat.jpg"
+ },
+ {
+  "id": 9,
+  "name": "Doodh Patti Chai",
+  "category": "Drinks",
+  "price": 80,
+  "emoji": "☕",
+  "color": "#F3DCC8",
+  "prep": "3 min",
+  "desc": "Strong, creamy dhaba-style tea.",
+  "image": "chai.jpg"
+ },
+ {
+  "id": 10,
+  "name": "Mint Margarita",
+  "category": "Drinks",
+  "price": 160,
+  "emoji": "🍹",
+  "color": "#C8F2DD",
+  "prep": "3 min",
+  "desc": "Fresh mint, lemon and soda over crushed ice.",
+  "image": "mint_margarita.jpg"
+ },
+ {
+  "id": 11,
+  "name": "Chocolate Milkshake",
+  "category": "Drinks",
+  "price": 220,
+  "emoji": "🥤",
+  "color": "#E2D2C4",
+  "prep": "4 min",
+  "desc": "Thick chocolate shake topped with whipped cream.",
+  "image": "chocolate_milkshake.jpg"
+ },
+ {
+  "id": 12,
+  "name": "Brownies",
+  "category": "Sweets",
+  "price": 120,
+  "emoji": "🍫",
+  "color": "#E6CDBE",
+  "prep": "2 min",
+  "desc": "Fudgy chocolate brownies, warm and gooey.",
+  "image": "Brownies.jpg"
+ }
+]
